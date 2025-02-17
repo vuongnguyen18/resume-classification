@@ -28,3 +28,5 @@ The application allows users to upload a resume in PDF, DOCX, or TXT format. The
 - Text Vectorization: The cleaned text is vectorized using a pre-trained TF-IDF vectorizer.
 - Prediction: The vectorized text is passed to a pre-trained SVC model to predict the job category.
 - Display Results: The predicted job category is displayed to the user.
+
+---> Make sure you unzip the encod zip before you start the program
